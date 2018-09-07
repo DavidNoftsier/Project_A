@@ -1,0 +1,9 @@
+# Don't track these folders as they are installed previously on the system and updated separately
+
+node_modules
+package-lock.json
+package.json
+
+node-server.js
+NodeServer.js
+
